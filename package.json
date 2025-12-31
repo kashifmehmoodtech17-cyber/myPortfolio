@@ -1,9 +1,9 @@
 {
-  "homepage": "https://kashifmehmoodtech17-cyber.github.io/my-portfolio",
   "name": "myPortfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://github.com/kashifmehmoodtech17-cyber/myPortfolio.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
